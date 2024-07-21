@@ -1,4 +1,4 @@
-Backend con Typescript utilizando arequitectauras Limpias, y Patron Repository
+Backend con Typescript utilizando arquitecturas Limpias, y de diseño Patron Repository
 
 
 # Dev
@@ -8,3 +8,10 @@ Backend con Typescript utilizando arequitectauras Limpias, y Patron Repository
 3. Ejecutar el comando npm install
 4. Levantar las bases de datos con el comando docker compose -d
 4. Ejecutar npm run dev
+
+#Prisma
+#Typescript
+#Postgres
+#Mysql
+#MongoDb
+#Repository
